@@ -5,7 +5,7 @@
 3- D2 3. Longest Substring Without Repeating Characters https://leetcode.com/problems/longest-substring-without-repeating-characters/description/   -- V.V.Imp
 
 Longest Repeating Substring without repeating characters (LeetCode 3) | Two pointer approach 
-https://www.youtube.com/watch?v=U2ppEzBaMck 
+https://www.youtube.com/watch?v=U2ppEzBaMck
 
 4- D3_LongestUniformSubstring
 
